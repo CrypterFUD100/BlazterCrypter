@@ -1,0 +1,149 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Blazor Protector
+</name>
+</assembly>
+<members>
+<member name="T:Blazor_Protector.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.bbb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.code">
+<summary>
+  Looks up a localized string similar to using System;
+using System.Net;
+using System.Reflection;
+using System.Text;
+using System.Reflection;
+using System.Runtime.InteropServices;
+using System.Security.Cryptography;
+using System.IO;
+
+[assembly: AssemblyTitle(&quot;%Title%&quot;)]
+[assembly: AssemblyDescription(&quot;%Description%&quot;)]
+[assembly: AssemblyCompany(&quot;%Company%&quot;)]
+[assembly: AssemblyProduct(&quot;%Product%&quot;)]
+[assembly: AssemblyCopyright(&quot;%Copyright%&quot;)]
+[assembly: AssemblyFileVersion(&quot;42.21.65.76&quot;)]
+
+[assembly: ComVisible(false)]
+
+// The fo [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.faa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.faa1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_acess_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_arrow_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_arrow_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_box_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_dash_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_icon_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_new_moon_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_options_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_protect_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_protect_48__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_protect_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_settings_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_trash_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.icons8_trash_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.sett">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.Untitled_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Blazor_Protector.My.Resources.Resources.Untitled_21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
