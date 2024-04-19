@@ -8,3 +8,4 @@ This tool is powerful and has the potential to be misused for malicious purposes
 
 Disclaimer:
 The creators of BlazterCrypter do not endorse or support any illegal activities. The tool is intended for educational and research purposes only. Users are solely responsible for their actions and must comply with all applicable laws and regulations in their jurisdiction.
+![image](https://github.com/CrypterFUD100/BlazterCrypter/assets/64618900/44efb32a-4dad-400b-bf7e-d963ba8262ad)
