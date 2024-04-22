@@ -1,4 +1,4 @@
-BlazterCrypter
+BlazterCrypter احلى تحية لتويكس والمسربين
 
 BlazterCrypter is a tool designed to create a Remote Administration Tool (RAT) server with 100% Fully Undetectable (FUD) capabilities. It empowers users to hide payloads behind legitimate processes, enhancing stealth and evading detection. Additionally, it incorporates an icon changer feature for customizing the appearance of the executable file.
 
